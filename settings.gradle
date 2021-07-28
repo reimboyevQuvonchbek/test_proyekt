@@ -1,2 +1,3 @@
 rootProject.name = "My GithubApp"
 include ':app'
+include ':myReadContact'
